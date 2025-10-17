@@ -38,6 +38,7 @@
     "@storybook/addon-docs": "^9.1.10",
     "@storybook/angular": "^9.1.10",
     "@types/jasmine": "~5.1.0",
+    "chromatic": "^13.3.0",
     "devextreme-cli": "latest",
     "devextreme-themebuilder": "25.1.5",
     "jasmine-core": "~5.1.0",

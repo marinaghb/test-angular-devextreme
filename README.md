@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Storybook
 
-To run Storybook manually, run ng run app-test-devextreme:storybook. CTRL+C to stop. 
+To run Storybook manually, run ng run app-test-devextreme:storybook. CTRL+C to stop.
